@@ -1,0 +1,18 @@
+# print(False or 0)
+# print(0 or False)
+# print(True or 1)
+# print(1 or True)
+# print(False or 1)
+# print(1 or False)
+# print(True or 0)
+# print(0 or True)
+
+
+print(False and 0)
+print(0 and False)
+print(True and 1)
+print(1 and True)
+print(False and 1)
+print(1 and False)
+print(True and 0)
+print(0 and True)

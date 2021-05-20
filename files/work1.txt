@@ -1,0 +1,3 @@
+athira,2,mca,100
+vishnu,3,mba,200
+sara,4,maths,50
